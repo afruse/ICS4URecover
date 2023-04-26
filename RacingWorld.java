@@ -131,7 +131,7 @@ public class RacingWorld extends World
         removeNPC();
         scrollLaneOne();
         scrollLaneTwo();
-        timeText.setValue(timer.millisElapsed()/1000);
+        timeText.setValue(60 - timer.millisElapsed()/1000);
         if(timer.millisElapsed() > 60*1000){
             if(racerThreeSeventy.getX() - racerCloneLeft.getX() > 0){
                 winner = true;
