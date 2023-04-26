@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Racers
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Racers\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ changeLane()
+comment2.params=
+comment2.target=int\ getMaxSpeed()
+comment3.params=maxSpeed
+comment3.target=void\ setMaxSpeed(int)
+comment4.params=
+comment4.target=int\ getSpeed()
+numComments=5

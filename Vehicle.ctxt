@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ \ Superclass\ for\ all\ vehicle\ objects\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ speedUp()
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=
+comment4.target=void\ slowDown()
+numComments=5
